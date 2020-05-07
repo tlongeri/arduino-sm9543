@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map For SM9543
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Sm9543	     KEYWORD1
+Sm9543Data   KEYWORD1
+Sm9543Status KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+pressureReadingToMpa KEYWORD2
+tempReadingToCelsius KEYWORD2
+readDf2              KEYWORD2
+readDf3              KEYWORD2
+readDf4              KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+SM9543_STATUS_GOOD         LITERAL1
+SM9543_STATUS_COMMAND_MODE LITERAL1
+SM9543_STATUS_STALE        LITERAL1
+SM9543_STATUS_ERROR        LITERAL1
